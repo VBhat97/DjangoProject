@@ -7,4 +7,7 @@ urlpatterns = [
 
     #/music/<album id>
     url(r'^(?P<album_id>[0-9]+)/$',views.detail, name='detail'),
+
+    # /music/<album id>/favourite
+    url(r'^(?P<album_id>[0-9]+)/favourite/$', views.favourite, name='favourite')
 ]
