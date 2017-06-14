@@ -1,1 +1,1 @@
-A basic music Album page using Django.
+A cloud-based file,media,etc uploading personal space.
