@@ -1,1 +1,3 @@
-A cloud-based file,media,etc uploading personal space.
+#Django Project
+
+Django software application useful to upload, save and maintain a personal music library.
